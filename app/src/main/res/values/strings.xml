@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseAnalyticsSampleApplication</string>
+    <string name="send_event_1">send event 1</string>
+    <string name="send_event_2">send event 2</string>
+    <string name="send_event_3">send event 3</string>
+    <string name="send_event_4">send event 4</string>
+</resources>
